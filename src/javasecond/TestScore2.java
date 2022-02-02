@@ -35,7 +35,7 @@ public class TestScore2 {
             System.out.println("Failing");
             break;
         default:
-            System.out.println("Invalid input");
+            System.out.println("Invalid input. Please Enter valid grade.");
         }
 	}
 
